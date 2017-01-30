@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "folio": 103,
+    "fecha": "2017-01-23"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.39542388916016,
+          20.720775258863522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.39452266693115,
+          20.720614701180207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3935034275055,
+          20.72042403871023
+        ]
+      }
+    }
+  ]
+}
