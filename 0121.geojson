@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "folio": 121,
+    "fecha": "2017-01-25"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.37482452392577,
+            20.672208841341597
+          ],
+          [
+            -103.3761978149414,
+            20.67217872714677
+          ],
+          [
+            -103.37732434272765,
+            20.67217872714677
+          ]
+        ]
+      }
+    }
+  ]
+}
