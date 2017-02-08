@@ -1,13 +1,12 @@
 {
   "type": "FeatureCollection",
-  "properties": {
-    "folio": 120,
-    "fecha": "2017-01-25"
-  },
-  "features": [
+   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+       "folio": 120,
+    "fecha": "2017-01-25"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
