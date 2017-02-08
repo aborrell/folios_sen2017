@@ -1,13 +1,12 @@
 {
   "type": "FeatureCollection",
-  "properties": {
-    "folio": 103,
-    "fecha": "2017-01-23"
-  },
-  "features": [
+   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+          "folio": 103,
+          "fecha": "2017-01-23"
+          },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -18,7 +17,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+          "folio": 103,
+          "fecha": "2017-01-23"
+           },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -29,7 +31,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+          "folio": 103,
+          "fecha": "2017-01-23"
+          },
       "geometry": {
         "type": "Point",
         "coordinates": [
