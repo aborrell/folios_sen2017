@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "folio": 132,
+        "fecha": "2017-01-27"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.47009122371674,
+            20.7868553640999
+          ],
+          [
+            -103.46998125314711,
+            20.786770105121498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio": 132,
+        "fecha": "2017-01-27"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.47279757261276,
+            20.788818814894572
+          ],
+          [
+            -103.47266614437103,
+            20.78872352668457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio": 132,
+        "fecha": "2017-01-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.47004294395445,
+          20.7868553640999
+        ]
+      }
+    }
+  ]
+}
